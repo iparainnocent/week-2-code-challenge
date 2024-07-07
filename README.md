@@ -46,7 +46,7 @@ This function is called when an item in the shopping list is clicked.
 It toggles the purchased class on the clicked item, which can be used to style the item as purchased.
 - clearList():
 This function is responsible for removing all items from the shopping list and resetting the shoppingItems array.
-It sets the innerHTML of the shopping list container to an empty string, effectively clearing the list.
+- It sets the innerHTML of the shopping list container to an empty string, effectively clearing the list.
 ### Event Listeners
 The script sets up the following event listeners:
 
@@ -58,6 +58,20 @@ This event listener selects all the items in the shopping list that have the pur
 This event listener calls the clearList() function when the "Clear List" button is clicked.
 
 ## Installation 
+### System Requirements
+
+- Node 18+
+- Abrowser capable of running javascript (chrome)
+- Operatingv System(Linux)
+- A text editor capable of running javascript (Visual Studio Code)
+- RAM - 4GB
+
+To use this repo, follow these steps:
+
+- Create a respiratory in your github account to link with your work code in visual studio code.
+ - Open your terminal in Visual Studio Code
+- As you continue coding run the codes in your terminal using node.js
+### Files used
 - HTML: The structure and layout of the web page.
 - CSS: The styling and visual appearance of the application.
 - JavaScript: The functionality and interactivity of the application.
