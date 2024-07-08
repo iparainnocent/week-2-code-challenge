@@ -67,6 +67,11 @@ This event listener calls the clearList() function when the "Clear List" button 
 - RAM - 4GB
 
 To use this repo, follow these steps:
+if you want to get the code in this website:
+- Open your browser and copy the following
+- git clone 
+     https://iparainnocent.github.io/week-2-code-challenge/
+
 
 - Create a respiratory in your github account to link with your work code in visual studio code.
  - Open your terminal in Visual Studio Code
